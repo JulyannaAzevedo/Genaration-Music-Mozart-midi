@@ -1,0 +1,4 @@
+# Projeto Final - Disciplina de Apredizado Profundo (Deep Learning)
+Autoras: Analaura e Julyanna Azevedo
+
+O principal objetivo deste projeto foi desenvolver uma Inteligência Artificial capaz de criar música clássica no estilo de um determinado artista, utilizando como base áudios do próprio artista. Optamos por focar em Mozart para este projeto. No arquivo zip, que acompanha o notebook, tem músicas de 19 pianistas, incluindo alguns famosos como Mozart, Bach, Chopin e Beethoven.
